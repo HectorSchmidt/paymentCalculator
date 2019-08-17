@@ -1,0 +1,2 @@
+# paymentCalculator
+Calculates montly paymets.
