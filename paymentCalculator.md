@@ -1,4 +1,4 @@
-/*BY: Hector Schmidt.
+/*BY:  Hector Schmidt.
 Mortgage Payment Calculator program. This program
 determines the monthly payments on a mortgage given
 the loan number amount, the yearly interest rate, and
